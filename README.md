@@ -4,6 +4,8 @@
 - styled-components (optional)
 - vendor prefixes for IE (use [autoprefixer](https://autoprefixer.github.io/))
 
+![sample img](https://raw.githubusercontent.com/moriyuu/react-editable-layout/images/sample.png)
+
 ## Build
 
 ### for Local

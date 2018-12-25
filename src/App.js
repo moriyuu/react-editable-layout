@@ -11,13 +11,13 @@ class App extends Component {
           <div className="item editor">editor</div>
           <div className="item images">images</div>
           <div className="item console">console</div>
-          <div className="item vertical" draggable>
+          <div className="item divider vertical" draggable>
             vertical
           </div>
-          <div className="item horizon" draggable>
+          <div className="item divider horizon" draggable>
             horizon
           </div>
-          <div className="item edidiv" draggable>
+          <div className="item divider edidiv" draggable>
             edidiv
           </div>
         </Grid>
